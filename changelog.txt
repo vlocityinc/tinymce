@@ -1,3 +1,5 @@
+Version 4.3.9c (2018-08-14)
+	Fixed bug where setBaseAndExtend would throw exceptions on Chrome 58 when selecting images. Port of https://github.com/tinymce/tinymce/commit/5164294bbca3d9544f164d68033fb23e74fdaaf1
 Version 4.3.2 (2015-12-14)
 	Fixed bug where the resize bars for table cells were not affected by the object_resizing property.
 	Fixed bug where the contextual table toolbar would appear incorrectly if TinyMCE was initialized inline inside a table.
