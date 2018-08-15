@@ -1,3 +1,5 @@
+THIS IS A FORK OF tinymce/tinymce TO BACKPORT CHANGES TO THE VERSION THAT VLOCITY.inc IS CURRENTLY USING
+
 TinyMCE - The JavaScript Rich Text editor
 ==========================================
 
