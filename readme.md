@@ -1,3 +1,6 @@
+THIS IS A FORK SPECIFICALLY TO BACKPORT A FIX FOR THE VERSION OF TINYMCE WE ARE CURRENTLY USING
+
+
 TinyMCE - JavaScript Library for Rich Text Editing
 ===================================================
 
